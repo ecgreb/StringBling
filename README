@@ -1,0 +1,1 @@
+Demo "Hello World" application that displays a TextView and an ImageView. Project includes sample Android Testing Framework module, JUnit 4 integration, and Robolectric integration. Includes IntelliJ IDEA project configuration files.
